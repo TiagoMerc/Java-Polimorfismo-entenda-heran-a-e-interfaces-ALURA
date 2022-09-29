@@ -50,3 +50,21 @@ Na próxima aula veremos um novo benefício da herança, o **Polimorfismo**.
 ![Super e reescrita de métodos](./imgs/prints/superReescritaDeMetodos.png)
 
 ### 03. Entendendo Polimorfismo
+
+**Nessa aula aprendemos que:**
+
+- objetos não mudam de tipo;
+
+- a referência pode mudar, e aí entra o polimorfismo;
+
+- o polimorfismo permite usar referências mais genéricas para a comunicação com um objeto;
+
+- o uso de referências mais genéricas permite desacoplar sistemas.
+
+No próximo vídeo vamos falar sobre como se comportam os construtores na herança.
+
+**Aplicando Polimorfismo**
+
+![Aplicando Polimorfismo](./imgs/prints/polimorfismo.png)
+
+### 04. Herança e o uso de construtores
