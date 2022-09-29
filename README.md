@@ -68,3 +68,39 @@ No próximo vídeo vamos falar sobre como se comportam os construtores na heran�
 ![Aplicando Polimorfismo](./imgs/prints/polimorfismo.png)
 
 ### 04. Herança e o uso de construtores
+
+**Nessa aula, vimos:**
+
+- Conceitos de herança, construtores e polimorfismo
+
+- A utilização da anotação **@Override**
+
+- Construtores não são herdados
+
+- Um construtor da classe mãe pode ser chamado através do **super()**
+
+O próximo conteúdo vamos falar como se comportam classes e métodos abstratos! 
+
+![Herança e o uso de construtores](./imgs/prints/herancaEUsoDeConstrutores.png)
+
+### 05. Classes e métodos abstratos
+
+**Nessa aula aprendemos:**
+
+- O que são classes abstratas
+
+- Para que servem classes abstratas
+
+- O que são métodos abstratos
+
+- Para que servem métodos abstratos
+
+Na próxima aula veremos sobre o uso de **Interfaces**!
+
+![Classes e métodos abstratos](./imgs/prints/ClassesEMetodosAbstratos.png)
+
+
+### 06. Interfaces
+
+
+ 
