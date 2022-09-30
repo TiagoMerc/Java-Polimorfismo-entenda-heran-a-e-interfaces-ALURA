@@ -116,4 +116,15 @@ No próximo capítulo praticaremos mais um pouco sobre herança e interfaces!
 
 ![Interfaces](./imgs/prints/Interfaces.png)
 
+### 07. Praticando herança e interfaces
+
+**Nessa aula, aprendemos:**
+
+- Mais a fundo sobre o uso de interfaces
+
+- Trabalhamos mais a fundo com herança
+
+- Vimos outras aplicações de heranças e interfaces
+
+![Herança e Interfaces](./imgs/prints/HerancaEInterfaces.png)
  

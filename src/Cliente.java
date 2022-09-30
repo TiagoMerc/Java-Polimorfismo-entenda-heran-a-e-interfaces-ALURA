@@ -1,20 +1,19 @@
 
 public class Cliente implements Autenticavel { // Como estou herdando métodos de uma classe Interface, tenho que implements os métodos
 
-	private int senha;
+	private AutenticacaoUtil autenticador;
+	
+	public Cliente() {
+		this.autenticador = new AutenticacaoUtil();
+	}
 	
 	@Override
 	public void setSenha(int senha) {
-		this.senha = senha;
+		this.autenticador = new AutenticacaoUtil();
 	}
 
 	@Override
 	public boolean autentica(int senha) {
-		if(this.senha == senha) {
-			return true;
-		} else {
-			return false;
-		}
+		return this.autenticador.autentica(senha);
 	}
-
 }
